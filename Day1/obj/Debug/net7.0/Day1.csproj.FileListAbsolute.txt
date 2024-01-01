@@ -1,0 +1,14 @@
+e:\Practice\Day1\bin\Debug\net7.0\Day1.exe
+e:\Practice\Day1\bin\Debug\net7.0\Day1.deps.json
+e:\Practice\Day1\bin\Debug\net7.0\Day1.runtimeconfig.json
+e:\Practice\Day1\bin\Debug\net7.0\Day1.dll
+e:\Practice\Day1\bin\Debug\net7.0\Day1.pdb
+e:\Practice\Day1\obj\Debug\net7.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+e:\Practice\Day1\obj\Debug\net7.0\Day1.AssemblyInfoInputs.cache
+e:\Practice\Day1\obj\Debug\net7.0\Day1.AssemblyInfo.cs
+e:\Practice\Day1\obj\Debug\net7.0\Day1.csproj.CoreCompileInputs.cache
+e:\Practice\Day1\obj\Debug\net7.0\Day1.dll
+e:\Practice\Day1\obj\Debug\net7.0\refint\Day1.dll
+e:\Practice\Day1\obj\Debug\net7.0\Day1.pdb
+e:\Practice\Day1\obj\Debug\net7.0\Day1.genruntimeconfig.cache
+e:\Practice\Day1\obj\Debug\net7.0\ref\Day1.dll
